@@ -1,0 +1,16 @@
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\bin\Debug\Media player V.1.0.exe.config
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\bin\Debug\Media player V.1.0.exe
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\bin\Debug\Media player V.1.0.pdb
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Media player V.1.0.csprojResolveAssemblyReference.cache
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Media_player_V._1._0.Form1.resources
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Media_player_V._1._0.Properties.Resources.resources
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Media player V.1.0.csproj.GenerateResource.Cache
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Media player V.1.0.exe
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Media player V.1.0.pdb
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\bin\Debug\Interop.WMPLib.dll
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Interop.WMPLib.dll
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Media player V.1.0.csproj.ResolveComReference.cache
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\Interop.AXVLC.dll
+D:\Engineering\C# Progrmming\visual studio 2015 Projects\Media player V.1.0\Media player V.1.0\obj\Debug\AxInterop.AXVLC.dll
